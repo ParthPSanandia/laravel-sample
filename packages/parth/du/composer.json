@@ -1,0 +1,22 @@
+{
+    "name": "parth/du",
+    "description": "Try to make package for laravel developer",
+    
+    "authors": [
+        {
+            "name": "Parth Sanandia",
+            "email": "parth.sanandia@multidots.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Parth\\Du\\TimezonesServiceProvider"
+            ]
+        }
+    }
+    
+    
+}
